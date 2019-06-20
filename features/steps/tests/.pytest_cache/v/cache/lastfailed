@@ -1,0 +1,6 @@
+{
+  "test_ya.py::test_ya": true,
+  "test_yandex.py": true,
+  "test_yandex.py::test_ya": true,
+  "test_yandex.py::test_yandex": true
+}

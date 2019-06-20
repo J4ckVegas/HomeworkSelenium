@@ -1,0 +1,8 @@
+exchangelib
+selenium==3.14.0
+pytest==3.7.2
+pytest-xdist==1.22.5
+requests
+Imbox==0.9.5
+tornado==5.1
+allure-pytest
